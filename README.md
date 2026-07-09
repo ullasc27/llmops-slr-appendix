@@ -36,3 +36,38 @@ Appendix tables for the paper: Exploring Large Language Model Operations (LLMOps
 | DP14 | NA | Performance Metrics | Evaluation indicators used by studies (e.g., perplexity, latency, cost). |
 | DP15 | NA | Aim of the study | Aim of the study in context of LLMOps. Captures the core research objective to understand the primary focus and intended contribution of the paper (e.g., "To propose a scalable framework for RAG deployment"). |
 | DP16 | NA | Abstract | Direction, goal and context of LLMOps. Captures the direction and goal of the study and how it contributes to the research. Example abstract quote from the paper. |
+
+
+## Appendix C: Selected Primary Studies in the Systematic Literature Review
+
+**Table 15: Selected Primary Studies in the Systematic Literature Review**
+
+| Paper ID | Title |
+|---|---|
+| P1 | Playlist Search Reinvented: LLMs Behind the Curtain |
+| P2 | Securing Rag: A Risk Assessment and Mitigation Framework |
+| P3 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing |
+| P4 | Secure and Scalable LLM-Based Recommendation Systems: An MLOps and Security by Design |
+| P5 | Integration of web scraping, fine-tuning, and data enrichment in a continuous monitoring context via large language model operations |
+| P6 | Benchmarking Techniques for Real-Time Evaluation of LLMs In Production Systems |
+| P7 | Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains |
+| P8 | Design Principles and Guidelines for LLM Observability: Insights from Developers |
+| P9 | Establishing a Robust LLMOps Framework for Intelligent Automation: Strategies and Best Practices |
+| P10 | Responsible Engineering of Information Systems Based on Generative Artificial Intelligence: An Action Design Research Study at a German Premium Car Manufacturer |
+| P11 | AU-RAG: Agent-based Universal Retrieval Augmented Generation |
+| P12 | Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers |
+| P13 | Real-Time ML and LLM Optimization: Orchestrating Scalable Workflows in Distributed Commerce Environments |
+| P14 | Towards the Versioning of LLM-Agent-Based Software |
+| P15 | Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems |
+| P16 | LogLM: From Task-based to Instruction-based Automated Log Analysis |
+| P17 | LLMOps: Definitions, Framework and Best Practices |
+| P18 | Beyond the Comfort Zone: Emerging Solutions to Overcome Challenges in Integrating LLMs into Software Products |
+| P19 | DataOps Meets LLMOps: Automating Cloud-Based AI Workflows from Data Ingestion to Prompt Optimization |
+| P20 | Enterprise LLMOps: Advancing Large Language Models Operations Practice |
+| P21 | Green MLOps to Green GenOps: An Empirical Study of Energy Consumption in Discriminative and Generative AI Operations |
+| P22 | Cloud-Native LLMOps Meets DataOps: A Unified Framework for High-Volume Analytical Systems |
+| P23 | Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences |
+| P24 | Challenges and Opportunities in Integrating LLMs into Continuous Integration/Continuous Deployment (CI/CD) Pipelines |
+| P25 | CuLao - Constructing Utilities of Large Language Models in Resource-Constrained Environments |
+| P26 | RAGVA: Engineering retrieval augmented generation-based virtual assistants in practice |
+| P27 | LM-PACE: Confidence Estimation by Large Language Models for Effective Root Causing of Cloud Incidents |
