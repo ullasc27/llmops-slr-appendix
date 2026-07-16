@@ -37,37 +37,36 @@ Appendix tables for the paper: Exploring Large Language Model Operations (LLMOps
 | DP15 | NA | Aim of the study | Aim of the study in context of LLMOps. Captures the core research objective to understand the primary focus and intended contribution of the paper (e.g., "To propose a scalable framework for RAG deployment"). |
 | DP16 | NA | Abstract | Direction, goal and context of LLMOps. Captures the direction and goal of the study and how it contributes to the research. Example abstract quote from the paper. |
 
-
 ## Appendix C: Selected Primary Studies in the Systematic Literature Review
 
 **Table 15: Selected Primary Studies in the Systematic Literature Review**
 
-| Paper ID | Title |
-|---|---|
-| P1 | Playlist Search Reinvented: LLMs Behind the Curtain |
-| P2 | Securing Rag: A Risk Assessment and Mitigation Framework |
-| P3 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing |
-| P4 | Secure and Scalable LLM-Based Recommendation Systems: An MLOps and Security by Design |
-| P5 | Integration of web scraping, fine-tuning, and data enrichment in a continuous monitoring context via large language model operations |
-| P6 | Benchmarking Techniques for Real-Time Evaluation of LLMs In Production Systems |
-| P7 | Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains |
-| P8 | Design Principles and Guidelines for LLM Observability: Insights from Developers |
-| P9 | Establishing a Robust LLMOps Framework for Intelligent Automation: Strategies and Best Practices |
-| P10 | Responsible Engineering of Information Systems Based on Generative Artificial Intelligence: An Action Design Research Study at a German Premium Car Manufacturer |
-| P11 | AU-RAG: Agent-based Universal Retrieval Augmented Generation |
-| P12 | Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers |
-| P13 | Real-Time ML and LLM Optimization: Orchestrating Scalable Workflows in Distributed Commerce Environments |
-| P14 | Towards the Versioning of LLM-Agent-Based Software |
-| P15 | Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems |
-| P16 | LogLM: From Task-based to Instruction-based Automated Log Analysis |
-| P17 | LLMOps: Definitions, Framework and Best Practices |
-| P18 | Beyond the Comfort Zone: Emerging Solutions to Overcome Challenges in Integrating LLMs into Software Products |
-| P19 | DataOps Meets LLMOps: Automating Cloud-Based AI Workflows from Data Ingestion to Prompt Optimization |
-| P20 | Enterprise LLMOps: Advancing Large Language Models Operations Practice |
-| P21 | Green MLOps to Green GenOps: An Empirical Study of Energy Consumption in Discriminative and Generative AI Operations |
-| P22 | Cloud-Native LLMOps Meets DataOps: A Unified Framework for High-Volume Analytical Systems |
-| P23 | Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences |
-| P24 | Challenges and Opportunities in Integrating LLMs into Continuous Integration/Continuous Deployment (CI/CD) Pipelines |
-| P25 | CuLao - Constructing Utilities of Large Language Models in Resource-Constrained Environments |
-| P26 | RAGVA: Engineering retrieval augmented generation-based virtual assistants in practice |
-| P27 | LM-PACE: Confidence Estimation by Large Language Models for Effective Root Causing of Cloud Incidents |
+| Paper ID | Title | Author | Verified Link / DOI | Publication Source (Journal / Conference) |
+|---|---|---|---|---|
+| P1 | Playlist Search Reinvented: LLMs Behind the Curtain | Geetha S. Aluri, Siddharth Sharma, Tarun Sharma, and Joaquin Delgado | https://dl.acm.org/doi/10.1145/3640457.3688047 | Conference |
+| P2 | Securing Rag: A Risk Assessment and Mitigation Framework | Lukas Ammann, Sara Ott, Christoph R. Landolt, and Marco P. Lehmann | https://arxiv.org/abs/2505.08728 | Conference |
+| P3 | ChainForge: A Visual Toolkit for Prompt Engineering and LLM Hypothesis Testing | Ian Arawjo, Chelse Swoopes, Priyan Vaithilingam, Martin Wattenberg, Elena L. Glassman | https://arxiv.org/abs/2309.09128 | Conference |
+| P4 | Secure and Scalable LLM-Based Recommendation Systems: An MLOps and Security by Design | Adi Saputra, Erma Suryani (and Nur Aini Rakhmawati) | https://ieeexplore.ieee.org/document/10791207 | Conference |
+| P5 | Integration of web scraping, fine-tuning, and data enrichment in a continuous monitoring context via large language model operations | Anas Bodor, Meriem Hnida, and Najima Daoudi | https://doi.org/10.11591/ijece.v15i1.pp1027-1037 | Journal |
+| P6 | Benchmarking Techniques for Real-Time Evaluation of LLMs In Production Systems | Reena Chandra, Rishab Bansal, and Karan Lulla | https://doi.org/10.52088/ijesty.v5i3.955 | Journal |
+| P7 | Prompt Sapper: A LLM-Empowered Production Tool for Building AI Chains | Yu Cheng, Jieshan Chen, Qing Huang, Zhenchang Xing, Sherry Xu, Qinghua Lu | https://dl.acm.org/doi/10.1145/3638247 | Journal |
+| P8 | Design Principles and Guidelines for LLM Observability: Insights from Developers | Xin Chen, Yan Feng Li, and Xiaoming Wang | https://dl.acm.org/doi/10.1145/3706599.3719914 | Conference |
+| P9 | Establishing a Robust LLMOps Framework for Intelligent Automation: Strategies and Best Practices | Dasaprakash Krishnamurthy and Vinod Neelanath | https://ieeexplore.ieee.org/document/10961869 | Conference |
+| P10 | Responsible Engineering of Information Systems Based on Generative Artificial Intelligence: An Action Design Research Study at a German Premium Car Manufacturer | Dominik Fetzer, Henner Gimpel, Oliver Meindl, and Jan Strickmann | https://link.springer.com/article/10.1007/s12599-025-00950-6 | Journal |
+| P11 | AU-RAG: Agent-based Universal Retrieval Augmented Generation | Jisoo Jang, Wen-Syan Li | https://dl.acm.org/doi/10.1145/3673791.3698416 | Conference |
+| P12 | Navigating MLOps: Insights into Maturity, Lifecycle, Tools, and Careers | Jasper Stone, Raj Patel, Farbod Ghiasi, Sudip Mittal, and Shahram Rahimi | https://ieeexplore.ieee.org/document/11050687 | Conference |
+| P13 | Real-Time ML and LLM Optimization: Orchestrating Scalable Workflows in Distributed Commerce Environments | Karan Alang, Sana Zia Hassan, Venugopal Katkam, Shazia Hassan | https://ieeexplore.ieee.org/document/11158822 | Conference |
+| P14 | Towards the Versioning of LLM-Agent-Based Software | Chengwei Liu, Lyuye Zhang, Xiufeng Xu, Wenbo Guo, and Yang Liu | https://dl.acm.org/doi/10.1145/3696630.3728714 | Conference |
+| P15 | Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems | Ping Liu, Jianqiang Shen, Qianqi Shen, Chunnan Yao, Kevin Kao, Dan Xu, Rajat Arora, Baofen Zheng, Caleb Johnson, Liangjie Hong, Jingwei Wu, and Wenjing Zhang | https://dl.acm.org/doi/10.1145/3746252.3760913 | Conference |
+| P16 | LogLM: From Task-based to Instruction-based Automated Log Analysis | Yilun Liu, Yuhe Ji, Shimin Tao, Minggui He, Weibin Meng, Shenglin Zhang, Yongqian Sun, Yuming Xie, Boxing Chen, Hao Yang | https://ieeexplore.ieee.org/document/11121704 | Conference |
+| P17 | LLMOps: Definitions, Framework and Best Practices | Megha Sinha, Sreekanth Menon, Ram Sagar | https://ieeexplore.ieee.org/document/10698359 | Conference |
+| P18 | Beyond the Comfort Zone: Emerging Solutions to Overcome Challenges in Integrating LLMs into Software Products | Nadia Nahar, Christian Kästner, Jenna Butler, Chris Parnin, Thomas Zimmermann, Christian Bird | https://ieeexplore.ieee.org/document/11121725 | Conference |
+| P19 | DataOps Meets LLMOps: Automating Cloud-Based AI Workflows from Data Ingestion to Prompt Optimization | Prasad Gadiraju, Srinivas Reddy Kosna, Kushal Shah, Santosh Kumar Vududala, Satya Manesh Veerapaneni, Anil Kumar Jonnalagadda | https://ieeexplore.ieee.org/document/11135202 | Conference |
+| P20 | Enterprise LLMOps: Advancing Large Language Models Operations Practice | Richard Shan, Tony Shan | https://ieeexplore.ieee.org/document/10630923 | Conference |
+| P21 | Green MLOps to Green GenOps: An Empirical Study of Energy Consumption in Discriminative and Generative AI Operations | Adrián Sánchez-Mompó, Ioannis Mavromatis, Peizheng Li, Konstantinos Katsaros, Aftab Khan | https://arxiv.org/abs/2503.23934 | Journal |
+| P22 | Cloud-Native LLMOps Meets DataOps: A Unified Framework for High-Volume Analytical Systems | Shivareddy Devarapalli, Venumadhav Goud Vathsavai, Venugopal Katkam | https://ieeexplore.ieee.org/document/11158069 | Conference |
+| P23 | Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences | Shreya Shankar, J.D. Zamfirescu-Pereira, Björn Hartmann, Aditya G. Parameswaran, Ian Arawjo | https://arxiv.org/abs/2404.12272 | Conference |
+| P24 | Challenges and Opportunities in Integrating LLMs into Continuous Integration/Continuous Deployment (CI/CD) Pipelines | Tianyi Chen (T. Chen) | https://ieeexplore.ieee.org/document/10581784 | Conference |
+| P25 | CuLao - Constructing Utilities of Large Language Models in Resource-Constrained Environments | Hong-Linh Truong, Ngoc Nhu Trang Nguyen | https://dl.acm.org/doi/10.1145/3677525.3678648 | Conference |
+| P26 | RAGVA: Engineering retrieval augmented generation-based virtual assistants in practice | Rui Yang, Michael Fu, Chakkrit Tantithamthavorn, Chetan Arora, Lisa Vandenhurk, Joey Chua | https://arxiv.org/abs/2502.14930 | Journal |
+| P27 | LM-PACE: Confidence Estimation by Large Language Models for Effective Root Causing of Cloud Incidents | Shizhuo Zhang, Xuchao Zhang, Chetan Bansal, Pedro Las-Casas, Rodrigo Fonseca, Saravan Rajmohan | https://dl.acm.org/doi/10.1145/3663529.3663858 | Conference |
