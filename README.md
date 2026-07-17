@@ -22,7 +22,7 @@ Appendix tables for the paper: Exploring Large Language Model Operations (LLMOps
 |---|---|---|---|
 | DP1 | NA | Publication Identifier | Unique study identifier for tracking and cross-referencing throughout the review. |
 | DP2 | NA | Publication Year | Publication year (2017–2026) used to map evolution of LLMOps literature over time. |
-| DP3 | NA | Geography | Country or region of origin used to identify global and regional evidence patterns. |
+| DP3 | NA | Geography | Explains the Authors' affiliations by country, and will be used to map the authors' affiliations geographically. |
 | DP4 | NA | Publication Source | Venue type (journal/conference/workshop) for assessing publication context. |
 | DP5 | NA | Research Method | Reported empirical method (e.g., case study, survey, experiment). |
 | DP6 | NA | Artifact Readiness | Readiness level of contribution: theoretical artifact, prototype, or production implementation. |
